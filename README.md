@@ -1,6 +1,11 @@
 BACKEND MK2
 ---------------------------------------
 
+
+**START**
+- yarn dev
+
+
 **USER**
 NODE.JS
 EXPRESS
@@ -14,8 +19,6 @@ SUCRASE - Codigo ficar ES6 padão react e angular
 - sequelize db:create   ## criar banco de dados 
 - sequelize db:migrate  ## rodar as migrations
 - sequelize migration:create --name=create-users ## criar uma migration
-
-
 
 **POSTGRES**
 - psql
